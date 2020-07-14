@@ -1,0 +1,20 @@
+cd C:\Users\Asus-\Desktop\
+chcp 65001
+
+gfortran lab11.f90 -o0 -o lab11.exe
+lab11.exe
+
+gfortran lab11.f90 -o3 -o lab11.exe
+lab11.exe
+
+gfortran lab12.f90 -o0 -o lab12.exe
+lab12.exe
+
+gfortran lab12.f90 -o3 -o lab12.exe
+lab12.exe
+
+gfortran lab13.f90 -o0 -o lab13.exe
+lab13.exe
+
+gfortran lab13.f90 -o3 -o lab13.exe
+lab13.exe
